@@ -1,0 +1,289 @@
+[
+  {
+    "schemeName": "Demo Student Scholarship 2026",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Education",
+    "category": "Education",
+    "description": "A demo scholarship that supports school and undergraduate students from low and middle income families with tuition and learning material costs.",
+    "benefits": "One-time scholarship amount of ₹50,000 credited directly to the student's bank account each academic year.",
+    "eligibility": {
+      "minAge": 16,
+      "maxAge": 25,
+      "gender": ["All"],
+      "states": ["Rajasthan", "Madhya Pradesh", "Gujarat"],
+      "occupation": ["Student"],
+      "minIncome": 0,
+      "maxIncome": 300000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": ["Secondary", "Higher Secondary", "Undergraduate"],
+      "landRequired": false,
+      "additionalRequirements": [
+        "Must be enrolled full-time in a recognised school or college",
+        "Must not be receiving any other central government scholarship"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Student ID", "Bank Passbook"],
+    "applicationMode": "Online",
+    "applicationUrl": "https://example.com/demo-schemes/student-scholarship",
+    "sourceUrl": "https://example.com/demo-schemes/student-scholarship",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo Farmer Support Scheme",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Agriculture & Farmers Welfare",
+    "category": "Agriculture",
+    "description": "A demo income-support scheme for small and marginal farmers that own cultivable land, aimed at covering seed, fertiliser, and irrigation costs.",
+    "benefits": "Direct benefit transfer of ₹60,000 per year, paid in two equal instalments.",
+    "eligibility": {
+      "minAge": 21,
+      "maxAge": 60,
+      "gender": ["All"],
+      "states": ["Punjab", "Haryana", "Uttar Pradesh", "Rajasthan"],
+      "occupation": ["Farmer", "Agricultural Labourer"],
+      "minIncome": 0,
+      "maxIncome": 500000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": [],
+      "landRequired": true,
+      "additionalRequirements": [
+        "Must own or cultivate agricultural land in the applicant's name or family's name",
+        "Land ownership documents must be submitted at the time of application"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Kisan Credit Card", "Land Ownership Documents"],
+    "applicationMode": "Online",
+    "applicationUrl": "https://example.com/demo-schemes/farmer-support",
+    "sourceUrl": "https://example.com/demo-schemes/farmer-support",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo Women Entrepreneurship Scheme",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Women and Child Development",
+    "category": "Women",
+    "description": "A demo scheme offering seed capital and mentorship to women who want to start or grow a small business.",
+    "benefits": "Collateral-free loan of up to ₹5,00,000 at a subsidised interest rate, plus a one-time mentorship grant of ₹25,000.",
+    "eligibility": {
+      "minAge": 21,
+      "maxAge": 45,
+      "gender": ["Female"],
+      "states": ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Karnataka", "Tamil Nadu"],
+      "occupation": ["Self Employed", "Unemployed", "Homemaker"],
+      "minIncome": 0,
+      "maxIncome": 400000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": [],
+      "landRequired": false,
+      "additionalRequirements": [
+        "Applicant must be the primary owner of the proposed business",
+        "Business plan document must be submitted"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Bank Passbook", "Business Plan"],
+    "applicationMode": "Online",
+    "applicationUrl": "https://example.com/demo-schemes/women-entrepreneurship",
+    "sourceUrl": "https://example.com/demo-schemes/women-entrepreneurship",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo Senior Citizen Pension Scheme",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Social Justice and Empowerment",
+    "category": "Senior Citizens",
+    "description": "A demo monthly pension scheme for senior citizens without a stable source of retirement income.",
+    "benefits": "Monthly pension of ₹2,000 credited directly to the beneficiary's bank account.",
+    "eligibility": {
+      "minAge": 60,
+      "maxAge": 120,
+      "gender": ["All"],
+      "states": ["Rajasthan", "Madhya Pradesh", "Bihar", "Odisha"],
+      "occupation": [],
+      "minIncome": 0,
+      "maxIncome": 200000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": [],
+      "landRequired": false,
+      "additionalRequirements": [
+        "Must not already be receiving a government pension of an equal or higher amount"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Age Proof", "Bank Passbook"],
+    "applicationMode": "Offline",
+    "applicationUrl": "https://example.com/demo-schemes/senior-citizen-pension",
+    "sourceUrl": "https://example.com/demo-schemes/senior-citizen-pension",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo Skill Development Yojana",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Skill Development and Entrepreneurship",
+    "category": "Employment",
+    "description": "A demo scheme that provides free vocational training and placement assistance to unemployed youth.",
+    "benefits": "Free 3-month skill training, a stipend of ₹3,000 per month during training, and placement support.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 35,
+      "gender": ["All"],
+      "states": ["Rajasthan", "Uttar Pradesh", "Madhya Pradesh", "Bihar", "West Bengal"],
+      "occupation": ["Unemployed", "Student"],
+      "minIncome": 0,
+      "maxIncome": 600000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": ["Secondary", "Higher Secondary", "Diploma", "Undergraduate"],
+      "landRequired": false,
+      "additionalRequirements": [
+        "Must not be currently employed full-time"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Educational Certificates"],
+    "applicationMode": "Online",
+    "applicationUrl": "https://example.com/demo-schemes/skill-development",
+    "sourceUrl": "https://example.com/demo-schemes/skill-development",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo Rural Housing Assistance Scheme",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Housing and Urban Affairs",
+    "category": "Housing",
+    "description": "A demo scheme that provides financial assistance to low-income rural households for building or repairing a house.",
+    "benefits": "One-time housing assistance of ₹1,20,000 released in three construction-linked instalments.",
+    "eligibility": {
+      "minAge": 21,
+      "maxAge": 100,
+      "gender": ["All"],
+      "states": ["Rajasthan", "Madhya Pradesh", "Chhattisgarh", "Jharkhand"],
+      "occupation": [],
+      "minIncome": 0,
+      "maxIncome": 250000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": [],
+      "landRequired": true,
+      "additionalRequirements": [
+        "Household must not already own a pucca house",
+        "Applicant must own or have clear rights over the plot of land for construction"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Residence Certificate", "Land Ownership Documents"],
+    "applicationMode": "Offline",
+    "applicationUrl": "https://example.com/demo-schemes/rural-housing",
+    "sourceUrl": "https://example.com/demo-schemes/rural-housing",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo Health Assurance Scheme",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Health and Family Welfare",
+    "category": "Healthcare",
+    "description": "A demo health insurance scheme offering cashless hospitalisation cover for economically vulnerable families.",
+    "benefits": "Cashless health cover of up to ₹5,00,000 per family per year at empanelled hospitals.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 100,
+      "gender": ["All"],
+      "states": ["Rajasthan", "Madhya Pradesh", "Uttar Pradesh", "Bihar", "Odisha", "Chhattisgarh"],
+      "occupation": [],
+      "minIncome": 0,
+      "maxIncome": 500000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": [],
+      "landRequired": false,
+      "additionalRequirements": [
+        "Family must not already be covered under another government health insurance scheme"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Ration Card"],
+    "applicationMode": "Online",
+    "applicationUrl": "https://example.com/demo-schemes/health-assurance",
+    "sourceUrl": "https://example.com/demo-schemes/health-assurance",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo MSME Growth Support Scheme",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Micro, Small and Medium Enterprises",
+    "category": "Entrepreneurship",
+    "description": "A demo scheme offering low-interest loans and mentoring to help small business owners scale their operations.",
+    "benefits": "Business loan of up to ₹10,00,000 at a subsidised interest rate with a partial credit guarantee.",
+    "eligibility": {
+      "minAge": 21,
+      "maxAge": 55,
+      "gender": ["All"],
+      "states": ["Rajasthan", "Gujarat", "Maharashtra", "Delhi"],
+      "occupation": ["Self Employed", "Unemployed"],
+      "minIncome": 0,
+      "maxIncome": 1000000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": [],
+      "landRequired": false,
+      "additionalRequirements": [
+        "Business must be registered as a micro or small enterprise",
+        "Applicant must not have defaulted on a previous government-backed loan"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Business Registration Certificate", "Bank Passbook"],
+    "applicationMode": "Online",
+    "applicationUrl": "https://example.com/demo-schemes/msme-growth-support",
+    "sourceUrl": "https://example.com/demo-schemes/msme-growth-support",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo Higher Education Fellowship",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Higher Education",
+    "category": "Higher Education",
+    "description": "A demo fellowship supporting postgraduate and doctoral students pursuing research at recognised institutions.",
+    "benefits": "Monthly fellowship stipend of ₹35,000 plus an annual contingency grant of ₹50,000 for research expenses.",
+    "eligibility": {
+      "minAge": 22,
+      "maxAge": 35,
+      "gender": ["All"],
+      "states": ["Rajasthan", "Delhi", "Karnataka", "Tamil Nadu", "West Bengal"],
+      "occupation": ["Student"],
+      "minIncome": 0,
+      "maxIncome": 800000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": ["Postgraduate", "PhD"],
+      "landRequired": false,
+      "additionalRequirements": [
+        "Must be enrolled in a full-time postgraduate or doctoral research programme",
+        "Must not be receiving another central fellowship for the same programme"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Educational Certificates", "Admission Letter"],
+    "applicationMode": "Online",
+    "applicationUrl": "https://example.com/demo-schemes/higher-education-fellowship",
+    "sourceUrl": "https://example.com/demo-schemes/higher-education-fellowship",
+    "lastVerified": "2026-08-24"
+  },
+  {
+    "schemeName": "Demo Rural Infrastructure Livelihood Scheme",
+    "isDemo": true,
+    "ministry": "Demo Ministry of Rural Development",
+    "category": "Rural Development",
+    "description": "A demo livelihood scheme that provides guaranteed work days and skill-linked wages to rural households.",
+    "benefits": "Guaranteed 100 days of paid work per year at a daily wage of ₹350, plus access to skill-linked livelihood projects.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 60,
+      "gender": ["All"],
+      "states": ["Rajasthan", "Madhya Pradesh", "Bihar", "Uttar Pradesh", "Odisha"],
+      "occupation": ["Farmer", "Agricultural Labourer", "Daily Wage Worker", "Unemployed"],
+      "minIncome": 0,
+      "maxIncome": 300000,
+      "categories": ["General", "OBC", "SC", "ST"],
+      "education": [],
+      "landRequired": false,
+      "additionalRequirements": [
+        "Applicant's household must reside in a designated rural area",
+        "Applicant must be willing to undertake manual or skilled labour under the scheme"
+      ]
+    },
+    "documentsRequired": ["Aadhaar Card", "Income Certificate", "Job Card", "Residence Certificate"],
+    "applicationMode": "Offline",
+    "applicationUrl": "https://example.com/demo-schemes/rural-infrastructure-livelihood",
+    "sourceUrl": "https://example.com/demo-schemes/rural-infrastructure-livelihood",
+    "lastVerified": "2026-08-24"
+  }
+]
